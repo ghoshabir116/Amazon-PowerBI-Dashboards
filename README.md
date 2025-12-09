@@ -88,4 +88,4 @@ Easy-to-read layout
 🖼️ Screenshots
 🔽 Dashboard Preview
 
-(Upload your screenshot file:
+(Upload your screenshot file:https://github.com/ghoshabir116/Amazon-PowerBI-Dashboards/blob/main/amazon%20Powerbi.png)
